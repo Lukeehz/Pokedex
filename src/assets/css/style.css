@@ -1,0 +1,7 @@
+.imgPoke {
+    transition: transform 0.4s ease;
+}
+.imgPoke:hover{
+    transform: rotate(180deg);
+
+}
