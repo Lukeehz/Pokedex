@@ -8,6 +8,13 @@
 .pokemonData::first-letter{
     text-transform: uppercase;
 }
+.linkF{
+    text-decoration: none;
+    color: white;
+}
+.linkF:hover{
+    color: goldenrod;
+}
 *{
     font-family: 'Press Start 2P', cursive;
 }
