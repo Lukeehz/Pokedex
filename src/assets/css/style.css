@@ -5,3 +5,6 @@
     transform: rotate(180deg);
 
 }
+.pokemonData::first-letter{
+    text-transform: uppercase;
+}
