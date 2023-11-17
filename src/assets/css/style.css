@@ -8,3 +8,6 @@
 .pokemonData::first-letter{
     text-transform: uppercase;
 }
+*{
+    font-family: 'Press Start 2P', cursive;
+}
