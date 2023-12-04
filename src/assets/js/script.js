@@ -19,8 +19,8 @@ function Pokedex (){
         result.innerHTML=`
         <h6 class="text-white text-center">Pokemon: ${pokemonName}</h6>
         <h6 class="text-white text-center">Tipo: ${pokemonTipo} </h6>
-        <h6 class="text-white text-center">Peso: ${pokemonAltura} Kilos </h6>
-        <h6 class="text-white text-center">Altura: ${pokemonPeso} Metros </h6>
+        <h6 class="text-white text-center">Peso: ${pokemonPeso} Kilos </h6>
+        <h6 class="text-white text-center">Altura: ${pokemonAltura} Metros </h6>
         <h6 class="text-white text-center">Habilidades ${pokemonHabilidade} </h6>
         <img src="${pokemonSprite}" class="img-fluid w-25 mx-auto d-block" alt="Imagem do Pokémon">
         `  
