@@ -1,6 +1,6 @@
 # Pokedex Pokémon
 
-Bem-vindo à Pokedex, um projeto desenvolvido por [Seu Nome].
+Bem-vindo à Pokedex, um projeto desenvolvido por Luke.
 
 ## Descrição do Projeto
 
